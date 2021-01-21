@@ -1,6 +1,6 @@
 streamlit==0.73
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 seaborn
 pillow
