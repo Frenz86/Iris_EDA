@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image,ImageFilter,ImageEnhance
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
 # Title and Subheader
 st.title("Iris EDA App")
